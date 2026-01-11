@@ -1,8 +1,9 @@
 # HorusID
 
-HorusID is supposed to be a webapp, but it is still in maintenance so it uses CLI.
+This script searches for free tickets on Satelite Norte Bus Company for Brazilians using ID Jovem.
 
 ### Usage
 
-```yarn install```
-```yarn start```
+```bash
+yarn install
+yarn start
